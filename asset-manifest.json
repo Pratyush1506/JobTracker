@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kanban/static/css/main.6b6ea9ab.css",
-    "main.js": "/kanban/static/js/main.ceaca2bb.js",
-    "index.html": "/kanban/index.html",
-    "main.6b6ea9ab.css.map": "/kanban/static/css/main.6b6ea9ab.css.map",
-    "main.ceaca2bb.js.map": "/kanban/static/js/main.ceaca2bb.js.map"
+    "main.css": "/JobTracker/static/css/main.a3a1721d.css",
+    "main.js": "/JobTracker/static/js/main.99e89f48.js",
+    "index.html": "/JobTracker/index.html",
+    "main.a3a1721d.css.map": "/JobTracker/static/css/main.a3a1721d.css.map",
+    "main.99e89f48.js.map": "/JobTracker/static/js/main.99e89f48.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b6ea9ab.css",
-    "static/js/main.ceaca2bb.js"
+    "static/css/main.a3a1721d.css",
+    "static/js/main.99e89f48.js"
   ]
 }
