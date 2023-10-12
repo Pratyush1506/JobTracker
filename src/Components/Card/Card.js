@@ -55,7 +55,7 @@ const [showModal, setShowModal] = useState(false);
             </div>
             <div className="card-title"> {props.card?.title} 
             { props.card?.link && (
-                <a href= {props.card?.link} onClick={(event)=>{event.stopPropagation()}}>
+                <a href= {props.card?.link} target="_blank" onClick={(event)=>{event.stopPropagation()}}>
                 <Link />
                 </a>
                 )

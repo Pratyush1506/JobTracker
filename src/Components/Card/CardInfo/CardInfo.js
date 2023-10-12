@@ -115,7 +115,7 @@ function CardInfo(props) {
 {/* Application link */}
               <div className="cardinfo-box">
                 <div className="cardinfo-box-title">
-                <a href={values.link} ><Link /></a>
+                <a href={values.link} target="_blank" ><Link /></a>
                   Link
                 </div>
                 <div className="cardinfo-box-body">
